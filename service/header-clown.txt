@@ -1,0 +1,7 @@
+[color=Magenta][mono]██╗  ██╗ ██████╗ ███╗   ██╗██╗  ██╗[/mono][/color] [color=Magenta][italic][bold]OFFICIAL![/bold][/italic][/color]
+[color=Magenta][mono]██║  ██║██╔═══██╗████╗  ██║██║ ██╔╝[/mono][/color] [head=3][color=Gold]────────[/color][/head]
+[color=Magenta][mono]███████║██║   ██║██╔██╗ ██║█████╔╝ [/mono][/color] [color=Magenta][italic][bold]CLOWN!![/bold]  [/italic][/color]
+[color=Magenta][mono]██╔══██║██║   ██║██║╚██╗██║██╔═██╗ [/mono][/color] [head=3][color=Gold]────────[/color][/head]    
+[color=Magenta][mono]██║  ██║╚██████╔╝██║ ╚████║██║  ██╗[/mono][/color] [color=Magenta][italic][bold]DOCUMENT!!![/bold]  [/italic]   [/color]
+[color=Magenta][mono]╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝[/mono][/color]     
+[head=2][color=Gold]─────────────────────────────[/color][/head]
