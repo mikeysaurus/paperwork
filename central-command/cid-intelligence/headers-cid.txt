@@ -1,0 +1,20 @@
+[head=1][color=#660089]────────────────────[/color][/head]
+[color=#660089]█▀▀ █ █▀▀▄[/color] [bold] [color=#660089]CENTRAL INTELLIGENCE DIVISION [/color][/bold]
+[color=#660089]█░░ █ █░░█[/color][bolditalic]  [color=#660089]Trust us.[/color][/bolditalic]
+[color=#660089]▀▀▀ ▀ ▀▀▀ [/color]  [color=#aaaaaa][italic]OFFICIAL CID OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#660089]────────────────────[/color][/head]
+
+
+
+[head=1][color=#660089]────────────────────[/color][/head]
+[color=#660089]█▀▀ █ █▀▀▄[/color] [bold] [color=#660089]CENTRAL INTELLIGENCE DIVISION [/color][/bold]
+[color=#660089]█░░ █ █░░█[/color][bolditalic]  [color=#660089]Trust us.[/color][/bolditalic]
+[color=#660089]▀▀▀ ▀ ▀▀▀ [/color]  [color=#aaaaaa][italic]OFFICIAL CID OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#660089]────────────────────[/color][/head]
+ [mono][bold]  INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+
+        [mono][color=FireBrick][bold]CONFIDENTIAL CONFIDENTIAL CONFIDENTIAL[/bold][/color][/mono]
+                            [mono] [bold]AUTHORISED EYES ONLY
+                              CLEARANCE LEVEL: [italic]BLACK[/italic][/bold][/mono]
+[head=1]────────────────────[/head]
+
