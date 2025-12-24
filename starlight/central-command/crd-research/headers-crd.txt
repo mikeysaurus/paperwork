@@ -1,0 +1,6 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#9900FF]█▀▀ █▀▀▄ █▀▀▄[/color] [head=3] [color=#9900FF]CENTRAL RESEARCH DIVISION [/color][/head]
+[color=#9900FF]█░░ █▀▀▄ █░░█[/color][bolditalic]   [color=#9900FF]Progress is worth the risk[/color][/bolditalic]
+[color=#9900FF]▀▀▀ ▀░░▀ ▀▀▀ [/color]   [color=#aaaaaa][italic]OFFICIAL CRD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+      [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]

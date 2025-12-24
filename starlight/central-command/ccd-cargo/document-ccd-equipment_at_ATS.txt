@@ -1,0 +1,18 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#b45f06]█▀▀ █▀▀ █▀▀▄[/color] [head=3]   [color=#b45f06]CENTRAL CARGO DIVISION[/color][/head]
+[color=#b45f06]█░░ █░░ █░░█[/color][bolditalic]   [color=#b45f06]Moving freights and supply everyone[/color][/bolditalic]
+[color=#b45f06]▀▀▀ ▀▀▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CCD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+      [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+
+[italic][mono]Your attention.
+
+The equipment that you have requested is now available for transfer at the Automated Trade Station.
+
+Any equipment stolen during their time at the Automated Trade Station will not be sent again. Any misuse of equipment could lead to your contract termination.
+
+Glory to Nanotrasen.[/mono][/italic]
+
+[italic]Warning. Failure to acknowledge an official Central Command communication message may lead to immediate termination of your contract.[/italic]
+[head=1]────────────────────[/head]
+                                                 [italic]Stamps[/italic]

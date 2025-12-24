@@ -1,0 +1,19 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#6aa84f]█▀▀ █▀▀ █▀▀█ █▀▀▄[/color] [head=3]   [color=#6aa84f]CENTRAL CIVILIANS AFFAIRS[/color][/head]
+[color=#6aa84f]█░░ █░░ █▄▄█ █░░█[/color][bolditalic]   [color=#6aa84f]Diplomacy & Mediation are our business[/color][/bolditalic]
+[color=#6aa84f]▀▀▀ ▀▀▀ ▀░░▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CCAD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+
+
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#188038]█▀▀ █▀▀ █▀▀▄[/color] [head=3]   [color=#188038]CENTRAL FINANCE DIVISION [/color][/head]
+[color=#188038]█░░ █▀▀ █░░█[/color][bolditalic]     [color=#188038]Managing your credits and salaries[/color][/bolditalic]
+[color=#188038]▀▀▀ ▀░░ ▀▀▀░░[/color]   [color=#aaaaaa][italic]OFFICIAL CFD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+
+
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#ff00eb]█▀▀ ░░▀ █▀▀▄[/color] [head=3]   [color=#ff00eb]CENTRAL JUSTICE DIVISION[/color][/head]
+[color=#ff00eb]█░░ ░░█ █░░█[/color][bolditalic]    [color=#ff00eb]Pursuing criminals and assuring fair trials[/color][/bolditalic]
+[color=#ff00eb]▀▀▀ █▄█ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CJD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]

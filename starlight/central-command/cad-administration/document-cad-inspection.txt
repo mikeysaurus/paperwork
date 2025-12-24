@@ -1,0 +1,88 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#1155cc]█▀▀ █▀▀█ █▀▀▄[/color] [bold] [color=#1155cc]CENTRAL ADMINISTRATION DIVISION [/color][/bold]
+[color=#1155cc]█░░ █▄▄█ █░░█[/color][bolditalic]   [color=#1155cc]The grease and blood of Bureaucracy[/color][/bolditalic]
+[color=#1155cc]▀▀▀ ▀░░▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CAD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+                      [bold]STATION INSPECTION REPORT[/bold]
+
+[head=3][bold][color=#1b67a5]COMMAND[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+
+[head=3][bold][color=#D61128]SECURITY[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+
+[head=3][bold][color=#c96dbf]RESEARCH[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+
+[head=3][bold][color=#5b97bc]MEDICAL[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+
+[head=3][bold][color=#b18644]CARGO[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+
+
+[head=3][bold][color=#f39f27]ENGINEERING[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+
+[head=3][bold][color=#9fed58]SERVICE[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+
+[head=3][bold][color=#525252]GENERAL EVALUATION[/color][/bold][/head]
+[bold]Efficiency[/bold]: ?/5
+[bold]Communication[/bold]: ?/5
+[bold]Safety[/bold]: ?/5
+[bold]Procedures[/bold]: ?/5
+[bold]Professionalism[/bold]: ?/5
+[bold]Average note[/bold]: ?/5
+[bold]Additional comments[/bold]:
+
+[head=1]───────────────────[/head]
+                                                 [italic]Stamps[/italic]
