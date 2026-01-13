@@ -1,7 +1,7 @@
 # paperwork
 Contains paperwork and document templates for Starlight.
 
-Used as templates for https://github.com/mikeysaurus/document-editor.
+Used as templates for https://github.com/ss14Starlight/Starlight.DocumentEditor.
 
 A few notes:
 - Each department has its own folder.
