@@ -10,7 +10,7 @@
 [color=#660089]█░░ █ █░░█[/color]   [color=#660089][bolditalic]Trust us.[/bolditalic][/color]
 [color=#660089]▀▀▀ ▀ ▀▀▀ [/color]   [color=#aaaaaa][italic]OFFICIAL CID OFFICE DOCUMENT[/italic][/color]
 [head=1][color=#660089]────────────────────[/color][/head]
- [mono][bold]  INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+     [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
 
         [mono][color=FireBrick][bold]CONFIDENTIAL CONFIDENTIAL CONFIDENTIAL[/bold][/color][/mono]
                             [mono] [bold]AUTHORISED EYES ONLY
