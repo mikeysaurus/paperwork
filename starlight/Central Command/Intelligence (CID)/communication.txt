@@ -1,0 +1,17 @@
+﻿[head=1][color=#660089]────────────────────[/color][/head]
+[color=#660089]█▀▀ █ █▀▀▄[/color]   [color=#660089][head=3]CENTRAL INTELLIGENCE DIVISION[/head][/color]
+[color=#660089]█░░ █ █░░█[/color]   [color=#660089][bolditalic]Trust us.[/bolditalic][/color]
+[color=#660089]▀▀▀ ▀ ▀▀▀ [/color]   [color=#aaaaaa][italic]OFFICIAL CID OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#660089]────────────────────[/color][/head]
+     [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+
+[mono]Attention [form],
+
+[form]
+
+- CID [form][/mono]
+
+[italic]Warning. Failure to acknowledge an official Central Command communication message may lead to immediate termination of your contract.[/italic]
+
+[head=1]────────────────────[/head]
+⠀                      [italic]Place for Stamps and/or Signatures[/italic]
