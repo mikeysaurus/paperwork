@@ -1,0 +1,5 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#9900FF]█▀▀ █▀▀▄ █▀▀▄[/color]   [color=#9900FF][head=3]CENTRAL RESEARCH DIVISION[/head][/color]
+[color=#9900FF]█░░ █▀▀▄ █░░█[/color]   [color=#9900FF][bolditalic]Progress is worth the risk[/bolditalic][/color]
+[color=#9900FF]▀▀▀ ▀░░▀ ▀▀▀ [/color]   [color=#aaaaaa][italic]OFFICIAL CRD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]

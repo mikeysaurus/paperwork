@@ -1,0 +1,5 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#1155cc]█▀▀ █▀▀█ █▀▀▄[/color]   [color=#1155cc][head=3]CENTRAL ADMINISTRATION DIVISION[/head][/color]
+[color=#1155cc]█░░ █▄▄█ █░░█[/color]   [color=#1155cc][bolditalic]The grease and blood of Bureaucracy[/bolditalic][/color]
+[color=#1155cc]▀▀▀ ▀░░▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CAD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]

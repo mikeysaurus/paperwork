@@ -1,7 +1,0 @@
-[head=1][color=#660089]────────────────────[/color][/head]
-[color=#3cb371]█▀▀ █▀▀▄ █▀▀▄[/color] [bold] [color=#7fff00]CENTRAL DOMESTIC DIVISION[/color][/bold]
-[color=#3cb371]█░░ █░░█ █░░█[/color][bolditalic]  [color=#7fff00]Simply perfect.[/color][/bolditalic]
-[color=#3cb371]▀▀▀  ▀▀▀    ▀▀▀ [/color]  [color=#aaaaaa][italic]OFFICIAL CDD OFFICE DOCUMENT[/italic][/color]
-[head=1][color=#660089]────────────────────[/color][/head]
- [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
-

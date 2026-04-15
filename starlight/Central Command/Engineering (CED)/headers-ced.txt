@@ -1,6 +1,0 @@
-[head=1][color=#009100]────────────────────[/color][/head]
-[color=#e39919]█▀▀ █▀▀ █▀▀▄[/color] [head=3]   [color=#e39919]CENTRAL ENGINEERING DIVISION [/color][/head]
-[color=#e39919]█░░ █▀▀ █░░█[/color][bolditalic]     [color=#e39919]The pinnacle of Corporate Engineering[/color][/bolditalic]
-[color=#e39919]▀▀▀ ▀▀▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CED OFFICE DOCUMENT[/italic][/color]
-[head=1][color=#009100]────────────────────[/color][/head]
-      [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
