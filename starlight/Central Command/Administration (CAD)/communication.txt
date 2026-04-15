@@ -1,17 +1,18 @@
 ﻿[head=1][color=#009100]────────────────────[/color][/head]
-[color=#1155cc]█▀▀ █▀▀█ █▀▀▄[/color]   [color=#1155cc][head=3]CENTRAL ADMINISTRATION DIVISION[/head][/color]
+[color=#1155cc]█▀▀ █▀▀█ █▀▀▄[/color]   [color=#1155cc][bold]CENTRAL ADMINISTRATION DIVISION[/bold][/color]
 [color=#1155cc]█░░ █▄▄█ █░░█[/color]   [color=#1155cc][bolditalic]The grease and blood of Bureaucracy[/bolditalic][/color]
 [color=#1155cc]▀▀▀ ▀░░▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL CAD OFFICE DOCUMENT[/italic][/color]
 [head=1][color=#009100]────────────────────[/color][/head]
-     [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+[mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
 
 [mono]Attention [form],
 
 [form]
 
+Signed,
 - CAD [form][/mono]
 
-[italic]Warning. Failure to acknowledge an official Central Command communication message may lead to immediate termination of your contract.[/italic]
-
-[head=1]────────────────────[/head]
+[head=1][color=#009100]────────────────────[/color][/head]
+[italic]Warning. Failure to acknowledge an official Central Command communication message may lead to immediate termination of your contract. Unauthorized redistribution, misinterpretation, or general tomfoolery involving this document is strongly discouraged and may result in administrative punishments.[/italic]
+[head=1][color=#009100]────────────────────[/color][/head]
 ⠀                      [italic]Place for Stamps and/or Signatures[/italic]
