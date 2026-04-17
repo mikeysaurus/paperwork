@@ -1,0 +1,84 @@
+# T-03 General Taxes Form
+[head=1][color=#330014]────────────────────[/color][/head]
+[color=#73002e]░█░ █▀▀▄ ▄▀▀▄[/color]   [color=#330014][head=3]INTERSTELLAR REVENUE SERVICE[/head][/color]
+[color=#73002e]░█░ █▄▄▀ ░▀▄░[/color]   [color=#330014][bolditalic]Only three things are certain:[/bolditalic][/color]
+[color=#73002e]░█░ █░░█ ▀▄▄▀[/color]   [color=#330014][bolditalic]                                Life, Death, and Taxes.[/bolditalic][/color]
+                       [color=#aaaaaa][italic]OFFICIAL T-03 GENERAL TAXES FORM[/italic][/color]
+[head=1][color=#330014]────────────────────[/color][/head]
+
+[head=2][bold]Document Compiler:[/bold][/head] 
+
+   [italic][signature][/italic]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[head=2][color=#1b67a5]   ▪  ▪  ▪[/color][/head]
+
+
+[head=2][bold]Employee Department:[/bold][/head] 
+[mono]
+▪[[check]] Command ▪[[check]] Cargo   ▪[[check]] Engineering
+▪[[check]] Medical ▪[[check]] Science ▪[[check]] Security
+▪[[check]] Service ▪[[check]] Other:  [form][/mono]
+                                                                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=2][bold]Job Title:[/bold][/head] 
+
+   [italic][form][/italic]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+[head=2][color=#1b67a5]   ▪  ▪  ▪[/color][/head]
+
+
+[head=2][bold]Wage Information:[/bold][/head]
+
+
+ [check] [head=3][bold]Hourly[/bold][/head] 
+
+[bold]Wage:[/bold]               [form]  Credits per hour.
+                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [check] [head=3][bold]Salaried[/bold][/head]
+
+[[check]] Weekly    
+[[check]] Bi-Weekly  
+[[check]] Monthly  
+[[check]] Other:     [form]
+                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Wage:[/bold]               [form]  Credits per pay-period.
+                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+ [check] [head=3][bold]Unpaid Intern[/bold][/head]  
+
+[italic]If you are an Unpaid Intern you are persuant to file tax form T-24.[/italic]
+
+
+[head=2][color=#1b67a5]   ▪  ▪  ▪[/color][/head]
+
+
+[head=2][bold]Tax Reduction Claims:[/bold][/head]
+
+[[check]] I have irregular persons or items to claim. 
+[[check]] I do not have irregular claims.
+
+
+[head=3][bold]Claims:[/bold][/head] 
+[italic]Do not fill this out if you have selected; "I do not have irregular claims."[/italic]
+
+[bold]Item/Person of claim:[/bold]    [form]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Item/Person of claim:[/bold]    [form]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Item/Person of claim:[/bold]    [form]
+                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=1][color=#330014]────────────────────[/color][/head]
+
+                            [color=#aaaaaa]╔══════════════════╗
+                            ║░░░░░░░░░░░░░░░░░░║
+                            ║░░░[mono] SIGN - HERE[/mono]  ░░░░║
+                            ║░░░░░░░░░░░░░░░░░░║
+                            ╚══════════════════╝[/color]
+
+

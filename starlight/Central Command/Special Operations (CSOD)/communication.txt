@@ -1,0 +1,19 @@
+﻿[head=1][color=#009100]────────────────────[/color][/head]
+[head=3][color=#741B47]CENTRAL SPECIAL OPERATIONS DIVISION[/head][/color]
+[color=#741B47]█▀▀ █▀▀ █▀▀█ █▀▀▄[/color]   [bolditalic][color=#741B47]Control offers peace.[/color][/bolditalic]
+[color=#741B47]█░░ ▀▀█ █░░█ █░░█[/color]   [color=#aaaaaa][italic]OFFICIAL CENTCOMM DOCUMENT[/italic][/color]
+[color=#741B47]▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀░[/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+[mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+
+[mono]Attention [form],
+
+[form]
+
+Signed,
+- CSOD [form][/mono]
+
+[head=1][color=#009100]────────────────────[/color][/head]
+[italic]Warning. Failure to acknowledge an official Central Command communication message may lead to immediate termination of your contract. Unauthorized redistribution, misinterpretation, or general tomfoolery involving this document is strongly discouraged and may result in administrative punishments.[/italic]
+[head=1][color=#009100]────────────────────[/color][/head]
+⠀                      [italic]Place for Stamps and/or Signatures[/italic]

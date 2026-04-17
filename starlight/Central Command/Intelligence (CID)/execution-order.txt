@@ -1,0 +1,28 @@
+[head=1][color=#660089]────────────────────[/color][/head]
+[color=#660089]█▀▀ █ █▀▀▄[/color]   [color=#660089][head=3]CENTRAL INTELLIGENCE DIVISION[/head][/color]
+[color=#660089]█░░ █ █░░█[/color]   [color=#660089][bolditalic]Trust us.[/bolditalic][/color]
+[color=#660089]▀▀▀ ▀ ▀▀▀ [/color]   [color=#aaaaaa][italic]OFFICIAL CID OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#660089]────────────────────[/color][/head]
+     [mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+
+        [mono][color=FireBrick][bold]CONFIDENTIAL CONFIDENTIAL CONFIDENTIAL[/bold][/color][/mono]
+                            [mono] [bold]AUTHORISED EYES ONLY
+             CLEARANCE LEVEL: [italic]BLACK[/italic][/bold][/mono]
+[head=1]────────────────────[/head]
+[mono][head=3][bold]SUBJECT DETAILS:[/bold][/head][/mono]
+• [mono]Position of target: [form][/mono]
+• [mono]Name of target: [form][/mono]
+• [mono]Authorizing Operator: [form][/mono]
+
+[head=1]────────────────────[/head]
+[mono]I, [signature], hereby authorize the immediate contract termination of the employee known as [form], in the position of [form].
+
+This individual is to be executed by a Central Command operative.
+
+Signed,
+[signature]
+
+[color=#660089][head=2]GLORY TO NANOTRASEN![/head][/mono][/color]
+
+[head=1]────────────────────[/head]
+⠀                      [italic]Place for Stamps and/or Signatures[/italic]

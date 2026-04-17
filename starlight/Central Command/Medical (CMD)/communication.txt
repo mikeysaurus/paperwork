@@ -1,0 +1,18 @@
+﻿[head=1][color=#009100]────────────────────[/color][/head]
+[color=#0AAFC3]█▀▀█ ▒█▀▄▀█ ▒█▀▀▄[/color]   [color=#0AAFC3][head=3]CENTRAL MEDICAL DIVISION[/head][/color]
+[color=#0AAFC3]█░░░ ▒█▒█▒█ ▒█░▒█[/color]   [color=#0AAFC3][bolditalic]The healing touch of bureaucracy[/bolditalic][/color]
+[color=#0AAFC3]█▄▄█ ▒█░░▒█ ▒█▄▄▀[/color]   [color=#aaaaaa][italic]OFFICIAL CMD OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+[mono][bold]INCOMING TRANSMISSION FROM CENTRAL COMMAND[/bold][/mono]
+
+[mono]Attention [form],
+
+[form]
+
+Signed,
+- CMD [form][/mono]
+
+[head=1][color=#009100]────────────────────[/color][/head]
+[italic]Warning. Failure to acknowledge an official Central Command communication message may lead to immediate termination of your contract. Unauthorized redistribution, misinterpretation, or general tomfoolery involving this document is strongly discouraged and may result in administrative punishments.[/italic]
+[head=1][color=#009100]────────────────────[/color][/head]
+⠀                      [italic]Place for Stamps and/or Signatures[/italic]

@@ -1,0 +1,6 @@
+[head=1][color=#741B47]────────────────────[/color][/head]
+[head=3][color=#741B47]SPECIAL OPERATIONS DIVISION[/head][/color]
+[color=#741B47]█▀▀ █▀▀ █▀▀█ █▀▀▄[/color]   [bolditalic][color=#741B47]Control offers peace.[/color][/bolditalic]
+[color=#741B47]█░░ ▀▀█ █░░█ █░░█[/color]   [color=#aaaaaa][italic]OFFICIAL CENTCOMM DOCUMENT[/italic][/color]
+[color=#741B47]▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀░[/color]
+[head=1][color=#741B47]────────────────────[/color][/head]
