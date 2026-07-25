@@ -19,10 +19,10 @@
 
 The following is approved:
 
-[ ] Executed by Central Command personnel
-[ ] Executed by the Captain without delay
-[ ] Taken into Cetral Command custody off station
-[ ] Taken into station custody with Cetral Command oversight
+[ ] Execution by Central Command personnel
+[ ] Execution by the Captain without delay
+[ ] Taken into Central Command custody off station
+[ ] Taken into station custody with Central Command oversight
 [ ] Taken into permanent custody by station forces
 
 Signed,
