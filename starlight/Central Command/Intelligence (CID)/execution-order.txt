@@ -17,7 +17,13 @@
 [head=1]────────────────────[/head]
 [mono]I, [signature], hereby authorize the immediate contract termination of the employee known as [form], in the position of [form].
 
-This individual is to be executed by a Central Command operative.
+The following is approved:
+
+[ ] Executed by Central Command personnel
+[ ] Executed by the Captain without delay
+[ ] Taken into Cetral Command custody off station
+[ ] Taken into station custody with Cetral Command oversight
+[ ] Taken into permanent custody by station forces
 
 Signed,
 [signature]
